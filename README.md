@@ -22,8 +22,7 @@ Q to quit.
 
 
 ## Install Instructions 
-You'll need PIL and it's an outdated version too. I'll try to fix that but it's not my dependency 
-it's in the unicorn hat driver/handler somewhere. 
+I'm assuming you have your HAT set up and the demos work for you, if not, follow their setup instructions first. 
 
 ```shell
 python -m venv venv
@@ -62,4 +61,8 @@ I know what you're thinking, Emoji Frogger. I tried replacing all the characters
 Enable it in the definitions.py
 ![emoji frogger is bad](./assets/emoji_frogger.png)
 
+
+
+
+[Unicorn HAT HD 16x16 pixel LED display](https://shop.pimoroni.com/products/unicorn-hat-hd?variant=42496126730)
 
