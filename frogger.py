@@ -22,6 +22,7 @@ import PIL.Image as Image ,PIL.ImageDraw as ImageDraw
 
 import threading
 
+#SpaceInvaders stuff
 import curses
 from game import Game
 from unicornHatController import UnicornHatController

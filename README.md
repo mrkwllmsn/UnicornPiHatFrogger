@@ -56,3 +56,10 @@ python ./frogger.py -90
 
 -- I'm Commander Shepard and this is the best frogger on the citadel.
 ![Console only version ](./assets/frogger3_console.png)
+
+
+I know what you're thinking, Emoji Frogger. I tried replacing all the characters with emojis, it made a wonderful version with very fancy graphics.
+Enable it in the definitions.py
+![emoji frogger is bad](./assets/emoji_frogger.png)
+
+
