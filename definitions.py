@@ -1,0 +1,12 @@
+LEFT = 1
+RIGHT = 2
+UP = 3
+DOWN = 4
+DOWNLEFT = 5
+DOWNRIGHT = 6
+SCREEN_WIDTH = 16
+SCREEN_HEIGHT = 16
+FONT = ('/usr/share/fonts/truetype/freefont/FreeSansBold.ttf', 13)
+HIGHSCORE_FILE = '.highscore'
+SHOW_CONSOLE_VERSION = True
+EMOJI_ENABLE = False
