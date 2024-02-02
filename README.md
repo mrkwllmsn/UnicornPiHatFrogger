@@ -29,7 +29,6 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-You will  need pillow, and you even need a specific version for now...
 ```shell
 pip install Pillow==9.5.0
 ```
