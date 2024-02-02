@@ -49,8 +49,10 @@ python ./frogger.py -90
 ```
 ![Starting screen for frogger](./assets/frogger1.jpg)
 ![Playing a game](./assets/frogger2.jpg)
+![Console only version ](./assets/frogger3_console.png)
 
 ## Frogger in action demo video 
 [YouTube video of Frogger in action on a Unicorn HD 16x16 Hat, on Pi5 with NVME base and a HAT hacker Hat, all from Pimoroni ](https://youtu.be/FM_PzdKImLo)
 
 -- I'm Commander Shepard and this is the best frogger on the citadel.
+![Console only version ](./assets/play_frog_big.png)
